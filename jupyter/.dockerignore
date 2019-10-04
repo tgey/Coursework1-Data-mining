@@ -1,0 +1,7 @@
+raw
+processed
+.ipynb_checkpoints
+.vscode
+**/__pycache__
+.dockerignore
+data

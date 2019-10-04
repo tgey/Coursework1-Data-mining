@@ -1,0 +1,8 @@
+.docker-compose.override.yaml
+venv
+.ipynb_checkpoints
+.env
+.vscode
+raw
+processed
+**/*.csv

@@ -1,0 +1,1 @@
+# Jupyter folder architecture
