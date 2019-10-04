@@ -25,15 +25,17 @@
 
 
 ##### Core scientific packages
-jupyter==1.0.0
-jupyter-client==5.2.4
-jupyter-console==6.0.0
-jupyter-core==4.4.0
-jupyterlab==0.35.6
-jupyterlab-git==0.5.0
-jupyterlab-github==0.7.0
-jupyterlab-server==0.3.0
-jupyternotify==0.1.15
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+jupyterlab
+jupyterlab-git
+jupyterlab-github
+jupyterlab-server
+jupyternotify
+
+
 matplotlib==3.1.0
 numpy==1.16.2
 pandas==0.24.2
