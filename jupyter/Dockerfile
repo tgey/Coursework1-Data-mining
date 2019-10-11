@@ -10,5 +10,8 @@ RUN pip install --upgrade pip \
 
 COPY . /home/jupyterlab
 RUN jupyter nbextension enable --sys-prefix --py widgetsnbextension
+RUN jupyter serverextension enable --py nbresuse --sys-prefix
+RUN jupyter nbextension install --py nbresuse --sys-prefix
+RUN jupyter nbextension enable --py nbresuse --sys-prefix
 
 CMD jupyter lab --port=8888 --no-browser --ip=0.0.0.0 --allow-root --NotebookApp.token='' --NotebookApp.password=''

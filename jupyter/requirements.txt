@@ -34,6 +34,7 @@ jupyterlab-git
 jupyterlab-github
 jupyterlab-server
 jupyternotify
+nbresuse
 
 
 matplotlib==3.1.0
