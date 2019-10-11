@@ -1,3 +1,5 @@
+# Coursework1 - Data mining & Maching learning
+
 ## Initiate docker
 
 ```bash
