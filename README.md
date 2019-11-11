@@ -1,5 +1,12 @@
 # Coursework1 - Data mining & Maching learning
 
+## Requirements
+
+* Docker
+* Datasets (add to /data/raw/ in the checkout)
+
+That's it! Docker compose takes care of the rest.
+
 ## Initiate docker
 
 ```bash
