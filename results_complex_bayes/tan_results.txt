@@ -1,0 +1,11 @@
+TAN Classifier:
+ __________________________________
+
+Correctly Classified Instances        4059               96.2761 %
+Incorrectly Classified Instances       157                3.7239 %
+Kappa statistic                          0.9569
+Mean absolute error                      0.0084
+Root mean squared error                  0.0793
+Relative absolute error                  4.8447 %
+Root relative squared error             26.9692 %
+Total Number of Instances             4216   

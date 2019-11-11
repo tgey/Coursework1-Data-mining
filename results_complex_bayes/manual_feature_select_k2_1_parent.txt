@@ -1,0 +1,14 @@
+K2, 1 parent:
+ __________________________________
+(6700, 21)
+train: 21 attributes, 6700 instances
+test: 21 attributes, 3300 instances
+
+Correctly Classified Instances         213                9.5473 %
+Incorrectly Classified Instances      2018               90.4527 %
+Kappa statistic                          0     
+Mean absolute error                      0.18  
+Root mean squared error                  0.3001
+Relative absolute error                100.0169 %
+Root relative squared error            100.0207 %
+Total Number of Instances             2231     

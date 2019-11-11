@@ -1,0 +1,11 @@
+K2 Classifier, 4 Parents; 100 features:
+ __________________________________
+
+Correctly Classified Instances        2360               55.9772 %
+Incorrectly Classified Instances      1856               44.0228 %
+Kappa statistic                          0.5084
+Mean absolute error                      0.0882
+Root mean squared error                  0.2885
+Relative absolute error                 50.8428 %
+Root relative squared error             97.9417 %
+Total Number of Instances             4216   

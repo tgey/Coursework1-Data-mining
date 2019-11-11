@@ -1,0 +1,12 @@
+Naive Bayes Classifier (for comparison):
+ __________________________________
+Data: 102 attributes, 12660 instances
+
+Correctly Classified Instances        2848               67.5522 %
+Incorrectly Classified Instances      1368               32.4478 %
+Kappa statistic                          0.6282
+Mean absolute error                      0.0654
+Root mean squared error                  0.2512
+Relative absolute error                 37.7216 %
+Root relative squared error             85.2338 %
+Total Number of Instances             4216     
