@@ -9,6 +9,12 @@ RUN echo 'deb http://deb.debian.org/debian sid main' >> /etc/apt/sources.list
 RUN apt-get update
 RUN apt-get -y install openjdk-8-jdk
 
+# turn off unstable packages again
+RUN head -n -1 /etc/apt/sources.list > temp.txt ; mv temp.txt /etc/apt/sources.list
+
+# required for exporting notebooks to other formats
+RUN apt-get -y install pandoc
+
 COPY requirements.txt /home/jupyterlab
 
 RUN pip install --upgrade pip \
